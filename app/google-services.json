@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414295067965",
+    "project_id": "coursex-5173e",
+    "storage_bucket": "coursex-5173e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414295067965:android:eeaaeb50f3551368468954",
+        "android_client_info": {
+          "package_name": "com.example.coursex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414295067965-uemqjbgv5hl0ue24vds1du6stdpr0mct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgS2wYgUcNDSrh7vz1Zr8uhT11TpneOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414295067965-uemqjbgv5hl0ue24vds1du6stdpr0mct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
